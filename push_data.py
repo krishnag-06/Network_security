@@ -44,13 +44,3 @@ class NetworkDataExtract():
             return(len(self.records))
         except Exception as e:
             raise CustomException(e, sys)
-        
-if __name__ == "__main__":
-    FILE_PATH = "Network_data/phisingData.csv"
-    DATABASE = "Network"
-    Collection = "NetworkData"
-    networkobj = NetworkDataExtract()
-    records = networkobj.csv_to_json(FILE_PATH)
-    print(records)
-    no_of_records = networkobj.insert_data_mongodb(records, DATABASE, Collection)
-    print(no_of_records)
