@@ -1,0 +1,5 @@
+#!/Users/krishnagoyal06/Desktop/Project_2(cybersecurity)/venv/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
