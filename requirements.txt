@@ -4,3 +4,4 @@ python-dotenv
 certifi
 pymongo
 scikit-learn
+pymongo[srv]==3.6
