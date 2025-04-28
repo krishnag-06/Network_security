@@ -31,3 +31,23 @@ DATA_VALIDATION_DRIFT_REPORT_DIR:str = "drift_report"
 DATA_VALIDATION_DRIFT_REPORT_FILE_NAME:str = "report.yaml"
 PREPROCESSING_OBJECT_FILE_NAME:str = "preprocessing.pkl"
 
+DATA_TRANSFORAMTION_DIR_NAME:str = "data_transformation"
+DATA_TRANSFORAMTION_TRANSFORMED_DATA_DIR:str = "transformed_data"
+DATA_TRANSFORMATION_TRANSFORMED_OBJECT_DIR:str = "transformed_object"
+
+DATA_TRANSFORAMTION_IMPUTER_PARAMS:dict = {
+    "missing_values": np.nan,
+    "n_neighbors":3,
+    "weights": "uniform"
+}
+
+DATA_TRANSFORMATION_TRAIN_FILE_PATH:str = "train.npy"
+DATA_TRANSFORMATION_TEST_FILE_PATH:str = "test.npy"
+
+MODEL_TRAINER_DIR_NAME:str = "model_trainer"
+MODEL_TRAINER_TRANIED_MODEL_DIR:str = "trained_model"
+MODEL_TRAINER_TRAINED_MODEL_NAME:str = "model.pkl"
+MODEL_TRAINER_EXPECTED_SCORE:float = 0.6
+MODEL_TRAINER_OVER_FITTING_UNDER_FITTING_THRESHOLD:float = 0.05
+
+TRAINING_BUCKET_NAME = "networksecurity"
