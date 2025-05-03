@@ -1,6 +1,6 @@
 pandas
 numpy
-python-dotenv
+python-dotenv`
 certifi
 pymongo
 scikit-learn
@@ -8,3 +8,5 @@ pymongo[srv]==3.6
 pyaml
 dill
 mlflow
+fastapi
+uvicorn

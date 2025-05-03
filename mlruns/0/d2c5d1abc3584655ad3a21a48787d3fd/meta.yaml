@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/krishnagoyal06/Desktop/Project_2%28cybersecurity%29/mlruns/0/d2c5d1abc3584655ad3a21a48787d3fd/artifacts
+end_time: 1746259086606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2c5d1abc3584655ad3a21a48787d3fd
+run_name: enthused-fish-744
+run_uuid: d2c5d1abc3584655ad3a21a48787d3fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746259084753
+status: 3
+tags: []
+user_id: krishnagoyal06

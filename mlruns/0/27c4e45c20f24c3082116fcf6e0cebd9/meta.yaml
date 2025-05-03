@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/krishnagoyal06/Desktop/Project_2%28cybersecurity%29/mlruns/0/27c4e45c20f24c3082116fcf6e0cebd9/artifacts
+end_time: 1746199373234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27c4e45c20f24c3082116fcf6e0cebd9
+run_name: languid-wolf-517
+run_uuid: 27c4e45c20f24c3082116fcf6e0cebd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746199369953
+status: 3
+tags: []
+user_id: krishnagoyal06

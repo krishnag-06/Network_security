@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/krishnagoyal06/Desktop/Project_2%28cybersecurity%29/mlruns/0/df4083ae9cb74b0e9892d3ef632eba12/artifacts
+end_time: 1746259084730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df4083ae9cb74b0e9892d3ef632eba12
+run_name: omniscient-cub-570
+run_uuid: df4083ae9cb74b0e9892d3ef632eba12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746259081696
+status: 3
+tags: []
+user_id: krishnagoyal06
